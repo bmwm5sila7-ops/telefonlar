@@ -1,0 +1,6 @@
+{
+  "name": "Samo Mobile",
+  "description": "3D animatsiyali zamonaviy smartfonlar do'koni — HTML, CSS va JS asosida yaratilgan flagman savdo platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
